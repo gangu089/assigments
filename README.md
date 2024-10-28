@@ -15,7 +15,7 @@ Ensure you have the following installed:
 1. **Clone the Repository**:
    Open your terminal and run:
    
-   git clone https://github.com/rahul123raj/assignment_VisionFirst.git
+   git clone https://github.com/Gangothri/assignment_VisionFirst.git
    cd assignment_VisionFirst
    
 2.Set Up MongoDB :-
